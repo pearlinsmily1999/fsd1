@@ -1,0 +1,53 @@
+table{
+    border: 2px solid black
+
+}
+.b1{
+    border-collapse: collapse;
+
+}
+.t1:hover{
+    color: red;
+    text-decoration: underline !important;
+}
+.t2:hover{
+    color: red;
+    text-decoration: underline !important;
+}
+.t3:hover{
+    color: red;
+    text-decoration: underline !important;
+}
+.t4:hover{
+    color: red;
+    text-decoration: underline !important;
+}
+.t5:hover{
+    color: red;
+    text-decoration: underline !important;
+}
+.t6:hover{color: red;
+    text-decoration: underline !important;
+}
+.t7:hover{
+    color: red;
+    text-decoration: underline !important;
+}
+.t8:hover{
+    color: red;
+    text-decoration: underline !important;
+}
+.t9:hover{
+    color: red;
+    text-decoration: underline !important;
+}
+.t10:hover{
+    color: red;
+    text-decoration: underline !important;
+}
+.t11
+{   
+    font-weight: bold;
+    border: white;
+    font-size: 20px;
+}
